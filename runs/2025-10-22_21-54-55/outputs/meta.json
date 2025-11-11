@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-10-22T21:54:55",
+  "tool_version": "0.1.0",
+  "python": "3.12.12",
+  "platform": "macOS-14.7.8-arm64-arm-64bit",
+  "args": {
+    "me": "/Users/animargam/anirudh/cssoftware/projects/2025/swing-similarity/me.mp4",
+    "pro": "/Users/animargam/anirudh/cssoftware/projects/2025/swing-similarity/me.mp4",
+    "out_video": "serve_compare.mp4",
+    "out_json": "similarity.json",
+    "fps": 30,
+    "ghost": false,
+    "side_by_side": false,
+    "lefty_me": false,
+    "lefty_pro": false,
+    "use_3d": false,
+    "overwrite": true,
+    "debug": true
+  }
+}
